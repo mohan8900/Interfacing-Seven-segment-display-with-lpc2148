@@ -1,8 +1,9 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name: Evangelin	
-Roll no :212221230025
-Date of experiment: 12-11-22
+Name:  AK MOHAN RAJ 
+
+Roll no :212221230064
+
 
  
  
